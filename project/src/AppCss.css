@@ -1,0 +1,25 @@
+.nav{
+    background-color: rgb(19, 12, 12);
+    display:flex;
+}
+h1{
+    color: rgb(255, 255, 255);
+    margin-left: 600px;
+    /* background-color: rgb(65, 132, 231); */
+
+}
+.nav-link{
+    justify-content: space-around;
+    display: flex;
+    position: absolute;
+    right: 10px;
+    align-items: center;
+    top:30px;
+    
+}
+button{
+    background-color: rgb(19, 170, 19);
+    color:white;
+    border: rgb(19, 170, 19);
+    cursor: pointer;
+}
